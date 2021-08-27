@@ -1,1 +1,1 @@
-# Repositório dedicado aos meus conteúdos de estudo. 
+# Repositório dedicado a conteúdos de estudo. 
